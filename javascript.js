@@ -1,9 +1,11 @@
-let balance = 7000
-let costs = 3000
-let income = 4000
+// // ЗАКАНЧИВАЕТЬСЯ С КАКИМ ТО ЭЛЕМОТОМ
+// console.log(a.endsWidth('elit'));
 
-let a = balance/costs*100
-let b = balance/income*100
+// // НАЧИНАЕТСЯ С КАКИМ ТО ЭЛЕМЕНТОМ
+// console.log(a.startsWidth('l'));
 
-console.log(a);
-console.log(b);
+// console.log(a.slice(14, 50));
+
+
+// console.log(a.toUpperCase());
+
